@@ -1,0 +1,8 @@
+V3 3
+FL C:/Users/shogun/Documents/VHDL/contador/contador.vhd 2016/03/10.16:29:46 P.20131013
+EN work/contador 1457648995 \
+      FL C:/Users/shogun/Documents/VHDL/contador/contador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador/Behavioral 1457648996 \
+      FL C:/Users/shogun/Documents/VHDL/contador/contador.vhd EN work/contador 1457648995
